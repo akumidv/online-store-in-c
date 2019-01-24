@@ -1,0 +1,24 @@
+A {
+	COLOR: #000000
+}
+A:hover {
+	COLOR: #808080
+}
+TD {
+	FONT-SIZE: 14px
+}
+.size{
+	FONT-SIZE: 12px
+}
+.INPUT {
+	FONT-SIZE: 90%
+}
+.yacheika0 {
+	BACKGROUND-COLOR: #EE9A4C; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-ALIGN: left
+}
+.yacheika1 {
+	BACKGROUND-COLOR: #DADADA; FONT-SIZE: 14px; FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+.yacheika3 {
+	BACKGROUND-COLOR: #40ABE8; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-ALIGN: left
+}
